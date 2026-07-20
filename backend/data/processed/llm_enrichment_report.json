@@ -1,0 +1,54 @@
+{
+  "total_recipes": 100,
+  "eligible": 100,
+  "classified": 100,
+  "skipped_from_cache": 0,
+  "accepted": 100,
+  "needs_review": 0,
+  "failed": 0,
+  "goal_counts": {
+    "high-protein": 56,
+    "low-carb": 7,
+    "vegetarian": 35,
+    "vegan": 5,
+    "pescatarian": 3,
+    "gluten-free": 26,
+    "dairy-free": 31
+  },
+  "allergen_counts": {
+    "gluten": 67,
+    "milk": 68,
+    "eggs": 40,
+    "nuts": 8,
+    "peanuts": 1,
+    "fish": 6,
+    "shellfish": 0,
+    "soy": 2,
+    "celery": 10,
+    "mustard": 10,
+    "sesame": 3
+  },
+  "meal_type_counts": {
+    "main-course": 55,
+    "soup": 14,
+    "dessert": 11,
+    "side-dish": 13,
+    "breakfast": 2,
+    "salad": 4,
+    "other": 1
+  },
+  "average_confidence": 0.894,
+  "model": "openai:gpt-5-mini",
+  "classifier_version": "1",
+  "prompt_version": "1",
+  "duration_seconds": 624.6,
+  "usage": {
+    "requests": 100,
+    "input_tokens": 120100,
+    "output_tokens": 129422,
+    "total_tokens": 249522
+  },
+  "estimated_cost_usd": null,
+  "errors": [],
+  "validation_warnings": []
+}
